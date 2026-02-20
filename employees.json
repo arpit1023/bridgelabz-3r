@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1771579624601,
+    "name": "Arpit Shrivastava",
+    "gender": "Male",
+    "department": [
+      "Finance"
+    ],
+    "salary": "2000000000000"
+  },
+  {
+    "id": 1771581331801,
+    "name": "manish",
+    "gender": "Female",
+    "department": [
+      "Sales"
+    ],
+    "salary": "20"
+  },
+  {
+    "id": 1771581389667,
+    "name": "Rita",
+    "gender": "Female",
+    "department": [
+      "Finance"
+    ],
+    "salary": "125000"
+  },
+  {
+    "id": 1771581417598,
+    "name": "Raj",
+    "gender": "Male",
+    "department": [
+      "Sales"
+    ],
+    "salary": "12000"
+  },
+  {
+    "id": 1771581436366,
+    "name": "Lakshay",
+    "gender": "Male",
+    "department": [
+      "Sales"
+    ],
+    "salary": "30000"
+  }
+]
